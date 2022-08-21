@@ -1,5 +1,4 @@
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreens&size=65&pause=100&color=06CD9C&vCenter=true&width=800&multiline=true&lines=Rafael+Gomez;rgomez90;Software+Developer;Embedded+/+Electrical+Engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=40&duration=2000&pause=100&background=3261FF00&center=true&multiline=true&width=800&height=200&lines=Rafael+Gomez+-+rgomez90;Software+Developer;Electrical+Engineering;+Computer+science)](https://git.io/typing-svg)
 
 ### Hi there 👋 I am a software developer and an electrical engineering and computer science student
 
