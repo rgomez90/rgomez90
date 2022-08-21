@@ -1,6 +1,7 @@
-### Hi there 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=250&color=06CD9C&vCenter=true&width=600&height=70&lines=Rafael+Gomez;rgomez90;Software+Developer;Embedded+/+Electr.+Engineering)](https://git.io/typing-svg)
+
+### Hi there 👋 I am a software developer and an electrical engineering and computer science student
 
 
 ![Rgomez's GitHub stats](https://github-readme-stats.vercel.app/api?username=rgomez90&count_private=true&show_icons=true&theme=dark)
