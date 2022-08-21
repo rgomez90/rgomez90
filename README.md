@@ -2,8 +2,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=40&duration=2000&pause=100&background=3261FF00&center=true&multiline=true&width=800&height=200&lines=Rafael+Gomez+-+rgomez90;Software+Developer;Electrical+Engineering;+Computer+science" alt="Typing SVG" /></a>
 </div>
 
-### Hi there 👋 I am a software developer and an electrical engineering and computer science student
-
 <div align="center">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=rgomez90&count_private=true&show_icons=true&theme=dark" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgomez90&layout=compact&theme=dark" />
